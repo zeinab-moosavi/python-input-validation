@@ -7,13 +7,13 @@ It's designed to practice Python basics such as:
 . Type conversion (`float` and `int`)
 . Using the `math` library
 
-#How to Use
+# How to Use
 1. Run the script using Python3.
 2. The program will ask you to enter a number.
 3. If the input is invalid (not a number), it will keep asking.
 4. Once a valid number is entered, the script prints its square root.
 
-#Key Learning Points
+# Key Learning Points
 . Handling user input safely
 . Understanding that `input()` always return a string
 . Converting strings to numbers for calculations
