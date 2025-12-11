@@ -2,10 +2,10 @@
 ## overview
 This is a simple Python script that asks yhe user to enter a number, validates the input, converts it to the correct number type(integer or float), and calculates the square root.
 It's designed to practice Python basics such as:
-. Loops(`while`)
-. Exception handling (`try/except`)
-. Type conversion (`float` and `int`)
-. Using the `math` library
+- Loops(`while`)
+- Exception handling (`try/except`)
+- Type conversion (`float` and `int`)
+- Using the `math` library
 
 ## How to Use
 1. Run the script using Python3.
